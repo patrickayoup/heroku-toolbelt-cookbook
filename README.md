@@ -11,7 +11,7 @@ Other RHEL or Debian platforms may work, but are untested.
 
 ## Attributes
 
-N/A
+* [default](attributes/default.rb)
 
 ## Recipes
 
